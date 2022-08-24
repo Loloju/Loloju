@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![odemirel's 42 stats](https://badge42.vercel.app/api/v2/cl6w5u3p701160gmn6o8wton3/stats?cursusId=21&coalitionId=234)](https://github.com/JaeSeoKim/badge42)
 <!--
 **Loloju/Loloju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
